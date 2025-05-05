@@ -1,0 +1,16 @@
+food_pizza.txt
+food_burger.txt
+food_chicken.txt
+food_beef.txt
+drinks_pepsi.txt
+drinks_water.txt
+drinks_lamon_juice.txt
+drinks_coffee_cup.txt
+desserts_cheesecake.txt
+desserts_ice_cream.txt
+desserts_cookies&milk.txt
+desserts_waffle.txt
+snacks_fries.txt
+snacks_nachos.txt
+snacks_nuggets.txt
+snacks_ donut.txt
